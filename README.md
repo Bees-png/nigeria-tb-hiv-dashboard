@@ -1,7 +1,8 @@
 # Nigeria TB/HIV Performance Dashboard (2010–2023)
 
 This project analyzes 13 years of Nigeria's HIV and TB data using **Microsoft Excel**, with a focus on understanding testing trends, treatment gaps, and the care cascade. The dataset was sourced from the **World Health Organization (WHO)** global TB/HIV surveillance data.
-[TB/HIV Excel Dashboard](HIV.TB.png.jpng)  
+
+[TB/HIV Excel Dashboard](HIV.TB.png.jpg)  
 *Snapshot of the Excel-based HIV/TB dashboard showing treatment drop-offs and testing trends.*
 
 ## 📌 Objective
