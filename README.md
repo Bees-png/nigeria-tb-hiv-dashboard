@@ -13,7 +13,7 @@ To extract and analyze Nigeria-specific records from a global dataset and presen
 - Only **7% of those notified** are recorded as receiving **ART (treatment)**, revealing a critical treatment gap.
 - The **care cascade** visualization shows major drop-offs from diagnosis to treatment, highlighting the need for stronger linkage-to-care systems.
 
-- [TB/HIV Excel Dashboard](HIV.TB.png.jpg)  
+- [TB/HIV Excel Dashboard](https://github.com/Bees-png/nigeria-tb-hiv-dashboard/blob/main/HIV.TB.png.jpg)  
 *Snapshot of the Excel-based HIV/TB dashboard showing treatment drop-offs and testing trends.*
 
 
