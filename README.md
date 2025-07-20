@@ -2,11 +2,15 @@
 
 This project analyzes 13 years of Nigeria's HIV and TB data using **Microsoft Excel**, with a focus on understanding testing trends, treatment gaps, and the care cascade. The dataset was sourced from the **World Health Organization (WHO)** global TB/HIV surveillance data.
 
-## 📌 Objective
+## Objective
 
 To extract and analyze Nigeria-specific records from a global dataset and present them in an interactive Excel dashboard that highlights key trends and public health insights.
 
-## 🧠 Key Insights
+   ## Dashboard Preview  
+![TB/HIV Excel Dashboard](https://github.com/Bees-png/nigeria-tb-hiv-dashboard/blob/main/HIV.TB.png.jpg)  
+
+
+## Key Insights
 
 - **Over 1.9 million individuals were notified** for TB/HIV between 2010 and 2023.
 - **Testing rates improved significantly** from 2019 onward.
@@ -14,11 +18,7 @@ To extract and analyze Nigeria-specific records from a global dataset and presen
 - The **care cascade** visualization shows major drop-offs from diagnosis to treatment, highlighting the need for stronger linkage-to-care systems.
 
 
-   ## 📊 Dashboard Preview  
-![TB/HIV Excel Dashboard](https://github.com/Bees-png/nigeria-tb-hiv-dashboard/blob/main/HIV.TB.png.jpg)  
-
-
-## 📂 Tools Used
+## Tools Used
 
 - **Microsoft Excel**
   - Data cleaning
@@ -27,7 +27,7 @@ To extract and analyze Nigeria-specific records from a global dataset and presen
   - Slicers for interactivity
   - Dashboard formatting and layout
 
-## 🔍 Dataset Source
+## Dataset Source
 
 - World Health Organization (WHO)  
   [https://www.who.int](https://www.who.int)
@@ -39,20 +39,20 @@ To extract and analyze Nigeria-specific records from a global dataset and presen
   
   *(Raw dataset included in the repository for reference, filtered for Nigeria)*
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Extract country-specific data (Nigeria) from a multi-country WHO dataset.
 - Visualize HIV and TB trends using Excel for clear interpretation.
 - Identify gaps in testing, ART treatment coverage, and public health progress.
 - Promote data-driven public health awareness.
 
-## 📊 Deliverables
+##  Deliverables
 
 - Cleaned Excel dataset  
 - Interactive dashboard file  
 - Summary of findings and insights
 
-## 👩‍💻 Author
+## Author
 
 **Ofili Blessing**  
 Public Health Practitioner | Healthcare Data Analyst  
